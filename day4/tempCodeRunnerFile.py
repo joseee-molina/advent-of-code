@@ -1,0 +1,1 @@
+        currentInstances = 0
